@@ -11,7 +11,7 @@ public class DatatypeProgram {
 		double d=2345677.89744426424741;
 		char gender = 'M';
 		boolean status = true;
-		
+	        System.out.println("\nDataType Program");
 		System.out.println("My name is"+" "+ name);
 		System.out.println("My char value is"+" "+ gender);
 		System.out.println("My age is"+" "+age);
@@ -20,7 +20,6 @@ public class DatatypeProgram {
 		System.out.println("My long value is"+" "+ l);
 		System.out.println("My double value is"+" "+ d);
 		
-
 	}
 
 }
